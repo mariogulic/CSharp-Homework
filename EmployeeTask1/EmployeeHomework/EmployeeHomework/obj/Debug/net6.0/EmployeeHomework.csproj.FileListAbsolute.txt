@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\bin\Debug\net6.0\EmployeeHomework.exe
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\bin\Debug\net6.0\EmployeeHomework.deps.json
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\bin\Debug\net6.0\EmployeeHomework.runtimeconfig.json
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\bin\Debug\net6.0\EmployeeHomework.dll
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\bin\Debug\net6.0\EmployeeHomework.pdb
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.AssemblyInfo.cs
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.dll
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\refint\EmployeeHomework.dll
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.pdb
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\EmployeeHomework.genruntimeconfig.cache
+C:\Users\bojan\Desktop\Mario\C#\EmployeeTask1\EmployeeHomework\EmployeeHomework\obj\Debug\net6.0\ref\EmployeeHomework.dll
